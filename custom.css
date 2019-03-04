@@ -13,7 +13,7 @@ b, strong {
 
 nav {
 	font-size: 1.25rem;
-	
+
 }
 
 .nav-link {
@@ -22,7 +22,7 @@ nav {
 
 .nav-link:hover {
 	color: white;
-	
+
 }
 
 .custom-toggler.navbar-toggler {
@@ -38,20 +38,20 @@ nav {
 	.heroh2 {
 		color: white;
 	}
-	
+
 #howitworks {
 	background-color:#90DDAA;
 	 }
-	
-	
+
+
 
 hr {
 		border: 0;
 		width: 15%;
-		
-		
+
+
 	}
-	
+
 .hr-1 {
 	color: #54C0EC;
 background-color: #54C0EC;
@@ -83,17 +83,17 @@ height: 3px;
     -webkit-transform: scale(1.5) rotate(18deg);
     transform: scale(1.5) rotate(18deg)
     }
-    
+
 .footer {
 	width: 100%;
-	background-color:#40596B; 
-	height: 100px; 
+	background-color:#40596B;
+	height: 100px;
 	color: white;
 	vertical-align: middle;
-}    
+}
 
 .elementToFadeIn {
-    
+
     -webkit-animation: fadein 6s;
     animation: fadein 6s;
 }
@@ -115,6 +115,6 @@ height: 3px;
     to   { opacity: 1; }
 }
 
-h4 {
+h5 {
 	color: aqua;
 }
