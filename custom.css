@@ -1,5 +1,18 @@
+body {
+	font-family: 'Signika', sans-serif !important;
+}
+
+b, strong {
+    font-weight: inherit;
+    font-weight: bolder
+}
+
+#whatistickybot {
+	font-size: 1.5rem;
+}
+
 nav {
-	
+	font-size: 1.25rem;
 	
 }
 
@@ -18,3 +31,63 @@ nav {
 .custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,208,90, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
+
+#hero {
+	background-color:#55C0EC;
+	}
+	.heroh2 {
+		color: white;
+	}
+	
+#howitworks {
+	background-color:#90DDAA;
+	 }
+	
+	
+
+hr {
+		border: 0;
+		width: 15%;
+		
+		
+	}
+	
+.hr-1 {
+	color: #54C0EC;
+background-color: #54C0EC;
+height: 3px;
+}
+
+/*
+.card {
+	width: 312px;
+	height: 490px;
+}
+*/
+
+.card-body {
+	background-color: #fafafa;
+    padding: 1rem;
+    width: 100%;
+}
+
+.container {
+	font-size: 1.25rem;
+}
+
+#btnfont {
+	font-size: 2rem;
+}
+
+.btn:focus img, .btn:hover img {
+    -webkit-transform: scale(1.5) rotate(18deg);
+    transform: scale(1.5) rotate(18deg)
+    }
+    
+.footer {
+	width: 100%;
+	background-color:#40596B; 
+	height: 100px; 
+	color: white;
+	vertical-align: middle;
+}    
